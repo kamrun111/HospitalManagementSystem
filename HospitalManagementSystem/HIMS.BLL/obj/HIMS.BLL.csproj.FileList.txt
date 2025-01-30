@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HIMS.BLL.pdb
+bin\Debug\HIMS.BLL.dll
+bin\Debug\HIMS.BLL.pdb
+bin\Debug\HIMS.BusinessObjects.dll
+bin\Debug\HIMS.DAL.dll
+bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+bin\Debug\HIMS.DAL.pdb
+bin\Debug\HIMS.BusinessObjects.pdb
+obj\Debug\HIMS.BLL.dll

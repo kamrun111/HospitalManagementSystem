@@ -1,0 +1,210 @@
+D:\31march2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\31march2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\31march2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\31march2010\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\31march2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\31march2010\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\31march2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\31march2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+F:\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+F:\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+F:\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+F:\31 May 2010\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+F:\31 May 2010\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\31 May 2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+F:\31 May 2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+C:\Users\Sumon\Desktop\HIMS\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\November 26,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\November 26,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\November 26,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\November 26,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\November 26,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\November 26,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\November 26,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\November 26,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\Good Health Rangpur\November 26,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\Good Health Rangpur\November28,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\November28,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\November28,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\November28,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\November28,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\November28,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\November28,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\November28,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\November28,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+F:\November29,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+F:\November29,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+F:\November29,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+F:\November29,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\November29,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+F:\November29,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\November29,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+F:\November29,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+F:\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+F:\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+F:\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+F:\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+F:\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+F:\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+D:\December 21, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+D:\December 21, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+D:\December 21, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+D:\December 21, 2012\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\December 21, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+D:\December 21, 2012\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\December 21, 2012\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+D:\December 21, 2012\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+F:\December 25, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+F:\December 25, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+F:\December 25, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+F:\December 25, 2012\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\December 25, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+F:\December 25, 2012\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\December 25, 2012\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+F:\December 25, 2012\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+F:\December 25, 2012\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+E:\Kuks\February 15\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+E:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+F:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+G:\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll.config
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.dll
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.DAL.pdb
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.dll
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\bin\Debug\HIMS.BusinessObjects.pdb
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.dll
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.DAL\obj\Debug\HIMS.DAL.pdb

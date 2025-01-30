@@ -1,0 +1,123 @@
+D:\31march2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\31march2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\31march2010\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\31march2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\31march2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+F:\31 May 2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+F:\31 May 2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+F:\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+F:\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+I:\laptop-sumon\drive F\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+I:\laptop-sumon\Software\31 May 2010\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\Hospital software - Rangpur\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\My work\17 October 2012 - Rangpur\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+C:\Users\Sumon\Desktop\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+C:\Users\Sumon\Desktop\HIMS\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+C:\Users\Sumon\Desktop\HIMS\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sumon\Desktop\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+C:\Users\Sumon\Desktop\HIMS\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\November 26,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\November 26,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\November 26,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\November 26,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\November 26,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\Good Health Rangpur\November 26,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Good Health Rangpur\November 26,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\Good Health Rangpur\November 26,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\Good Health Rangpur\November28,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\Good Health Rangpur\November28,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\Good Health Rangpur\November28,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\Good Health Rangpur\November28,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\Good Health Rangpur\November28,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\November28,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\November28,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\November28,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\November28,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\November28,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+F:\November29,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+F:\November29,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+F:\November29,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\November29,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+F:\November29,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+F:\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+F:\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+F:\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+F:\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+D:\December 21, 2012\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+D:\December 21, 2012\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+D:\December 21, 2012\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\December 21, 2012\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+D:\December 21, 2012\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+F:\December 25, 2012\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+F:\December 25, 2012\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+F:\December 25, 2012\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\December 25, 2012\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+F:\December 25, 2012\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+E:\Kuks\February 15\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+E:\Kuks\February 15\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+E:\Kuks\February 15\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Kuks\February 15\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+E:\Kuks\February 15\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+F:\April 06, 2013\khuku\February 15\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+E:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+E:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+E:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+E:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+E:\DevelopingSoftware\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+F:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+F:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+F:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+F:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+G:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+G:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+G:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+G:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+G:\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+E:\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.dll
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\bin\Debug\HIMS.BusinessObjects.pdb
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.dll
+E:\07022020\DevelopingSoftware\Hospital Project\GoodhealthFinalProject\december 17,2012\HIMS.BusinessObjects\obj\Debug\HIMS.BusinessObjects.pdb

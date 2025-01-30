@@ -1,0 +1,5 @@
+bin\Debug\HIMS.BusinessObjects.dll
+bin\Debug\HIMS.BusinessObjects.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HIMS.BusinessObjects.dll
+obj\Debug\HIMS.BusinessObjects.pdb

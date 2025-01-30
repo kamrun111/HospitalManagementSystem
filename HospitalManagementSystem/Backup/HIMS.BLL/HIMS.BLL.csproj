@@ -1,0 +1,183 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8855269C-6CF0-4732-8B66-5CF8CC3D9912}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HIMS.BLL</RootNamespace>
+    <AssemblyName>HIMS.BLL</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.Shared, Version=11.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HIMS.BusinessObjects\HIMS.BusinessObjects.csproj">
+      <Project>{2aa848d1-5538-4293-bb3a-8d21807be31f}</Project>
+      <Name>HIMS.BusinessObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HIMS.DAL\HIMS.DAL.csproj">
+      <Project>{848bd003-3beb-4aae-a276-5b6ed43460e7}</Project>
+      <Name>HIMS.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BillBLL.cs" />
+    <Compile Include="ConsultationBLL.cs" />
+    <Compile Include="DoctorsPaymentBLL.cs" />
+    <Compile Include="DoctorsPaymentDetailsBLL.cs" />
+    <Compile Include="OPDAdmissionBLL.cs" />
+    <Compile Include="OPDBillBLL.cs" />
+    <Compile Include="OPDotherItemBLL.cs" />
+    <Compile Include="OPDPatientBLL.cs" />
+    <Compile Include="OPDpatientMedicineIndentBLL.cs" />
+    <Compile Include="OPDPatientRefDoctorBLL.cs" />
+    <Compile Include="OPDPayTableBLL.cs" />
+    <Compile Include="OPDPrescriptionBLL.cs" />
+    <Compile Include="OPDSalesBLL.cs" />
+    <Compile Include="OPDsalesProductBLL.cs" />
+    <Compile Include="OPDSalesRefundBLL.cs" />
+    <Compile Include="OPDSalesRefundProductBLL.cs" />
+    <Compile Include="OPD_patient_medicine_orderBLL.cs" />
+    <Compile Include="OtherserviceBLL.cs" />
+    <Compile Include="OtherServiceListBLL.cs" />
+    <Compile Include="PatientConsultantBLL.cs" />
+    <Compile Include="PrescriptionProductBLL.cs" />
+    <Compile Include="PatientMedicineIndentOrderBLL.cs" />
+    <Compile Include="InvestigationBackBLL.cs" />
+    <Compile Include="SampleBLL.cs" />
+    <Compile Include="InvestigationOrderBLL.cs" />
+    <Compile Include="PatientDischargeBLL.cs" />
+    <Compile Include="ReAgentItemBLL.cs" />
+    <Compile Include="ReagentProductBLL.cs" />
+    <Compile Include="sales_refundBLL.cs" />
+    <Compile Include="TestResultBLL.cs" />
+    <Compile Include="TestElementBLL.cs" />
+    <Compile Include="DoctorsBillBLL.cs" />
+    <Compile Include="FormHelper.cs" />
+    <Compile Include="PayBLL.cs" />
+    <Compile Include="PermittedFormBLL.cs" />
+    <Compile Include="FormBLL.cs" />
+    <Compile Include="OtsheduleBLL.cs" />
+    <Compile Include="UserPermittedFormBLL.cs" />
+    <Compile Include="UserLogBLL.cs" />
+    <Compile Include="ModuleBLL.cs" />
+    <Compile Include="ModuleFormBLL.cs" />
+    <Compile Include="UserGroupBLL.cs" />
+    <Compile Include="UserBLL.cs" />
+    <Compile Include="VisitMedicineBLL.cs" />
+    <Compile Include="OutdoorPatientInvestigationBLL.cs" />
+    <Compile Include="UnitBLL.cs" />
+    <Compile Include="OutdoorPatientMedicationBLL.cs" />
+    <Compile Include="GuardianRelationBLL.cs" />
+    <Compile Include="GenderBLL.cs" />
+    <Compile Include="DepartmentBLL.cs" />
+    <Compile Include="IndentBLL.cs" />
+    <Compile Include="OtherItemBLL.cs" />
+    <Compile Include="PurchaseBLL.cs" />
+    <Compile Include="OutdoorPatientAdviceBLL.cs" />
+    <Compile Include="CityBLL.cs" />
+    <Compile Include="NationalityBLL.cs" />
+    <Compile Include="PatientStatusBLL.cs" />
+    <Compile Include="OutdoorPatientVisitBLL.cs" />
+    <Compile Include="ReligionBLL.cs" />
+    <Compile Include="PatientOtherItemBLL.cs" />
+    <Compile Include="PurchaseProductBLL.cs" />
+    <Compile Include="InvestigationBLL.cs" />
+    <Compile Include="OccupationBLL.cs" />
+    <Compile Include="HistoryTextValueBLL.cs" />
+    <Compile Include="AnaesthesiaBLL.cs" />
+    <Compile Include="PatientBLL.cs" />
+    <Compile Include="PatientHistoryBLL.cs" />
+    <Compile Include="TestDepartmentBLL.cs" />
+    <Compile Include="ReceiveBLL.cs" />
+    <Compile Include="MedicineBLL.cs" />
+    <Compile Include="TestGroupBLL.cs" />
+    <Compile Include="DosePreQuantityBLL.cs" />
+    <Compile Include="PatientConditionBLL.cs" />
+    <Compile Include="SupplierBLL.cs" />
+    <Compile Include="IntakeSysBLL.cs" />
+    <Compile Include="PaymentTypeBLL.cs" />
+    <Compile Include="InvestigationItemUsageBLL.cs" />
+    <Compile Include="IntakeOuttakeBLL.cs" />
+    <Compile Include="SalesBLL.cs" />
+    <Compile Include="ProductCategoryBLL.cs" />
+    <Compile Include="PatientCCBLL.cs" />
+    <Compile Include="RequisitionBLL.cs" />
+    <Compile Include="ProductTypeBLL.cs" />
+    <Compile Include="InvestigationItemIndentBLL.cs" />
+    <Compile Include="CabinStatusBLL.cs" />
+    <Compile Include="CabinTypeBLL.cs" />
+    <Compile Include="RequisitionProductBLL.cs" />
+    <Compile Include="InvestigationItemBLL.cs" />
+    <Compile Include="SalesProductBLL.cs" />
+    <Compile Include="AdviceBLL.cs" />
+    <Compile Include="ProductBLL.cs" />
+    <Compile Include="TreatementBLL.cs" />
+    <Compile Include="CabinTranferBLL.cs" />
+    <Compile Include="HistoryTextBLL.cs" />
+    <Compile Include="DoctorLevelBLL.cs" />
+    <Compile Include="CabinBLL.cs" />
+    <Compile Include="HistoryTextGroupBLL.cs" />
+    <Compile Include="SpecialistInBLL.cs" />
+    <Compile Include="InventoryBLL.cs" />
+    <Compile Include="DesignationBLL.cs" />
+    <Compile Include="InvestigationTestBLL.cs" />
+    <Compile Include="ReceiveProductBLL.cs" />
+    <Compile Include="RegularCheckupBLL.cs" />
+    <Compile Include="OutdoorBookingBLL.cs" />
+    <Compile Include="TestItemBLL.cs" />
+    <Compile Include="RefundFaultyBLL.cs" />
+    <Compile Include="Baby_noteBLL.cs" />
+    <Compile Include="FloorBLL.cs" />
+    <Compile Include="VisitInvestigationBLL.cs" />
+    <Compile Include="OperationBLL.cs" />
+    <Compile Include="OperationNoteBLL.cs" />
+    <Compile Include="MedicineTimingBLL.cs" />
+    <Compile Include="VisitTreatementBLL.cs" />
+    <Compile Include="RefferedDoctorsBLL.cs" />
+    <Compile Include="PatientMedicineBLL.cs" />
+    <Compile Include="PatientMedicineIndentBLL.cs" />
+    <Compile Include="ImplicationWayBLL.cs" />
+    <Compile Include="PatientRefferedDoctorsBLL.cs" />
+    <Compile Include="PatientTreatementBLL.cs" />
+    <Compile Include="VisitAdviceBLL.cs" />
+    <Compile Include="AdmissionBLL.cs" />
+    <Compile Include="PrescriptionBLL.cs" />
+    <Compile Include="BLLManager.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,234 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{848BD003-3BEB-4AAE-A276-5B6ED43460E7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HIMS.DAL</RootNamespace>
+    <AssemblyName>HIMS.DAL</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ApplicationBlocks.Data, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\NewHIMS\Reference\Microsoft.ApplicationBlocks.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HIMS.BusinessObjects\HIMS.BusinessObjects.csproj">
+      <Project>{2aa848d1-5538-4293-bb3a-8d21807be31f}</Project>
+      <Name>HIMS.BusinessObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdjusmentDAL.cs" />
+    <Compile Include="BankDAL.cs" />
+    <Compile Include="BankTransationDAL.cs" />
+    <Compile Include="BillDAL.cs" />
+    <Compile Include="BillDialysisDAL.cs" />
+    <Compile Include="BillICUDAL.cs" />
+    <Compile Include="BirthCertificateDAL.cs" />
+    <Compile Include="CaseSummaryDAL.cs" />
+    <Compile Include="ChequePaymentDAL.cs" />
+    <Compile Include="ConsultationDAL.cs" />
+    <Compile Include="DeathCertificateDAL.cs" />
+    <Compile Include="DialysisMedicineDAL.cs" />
+    <Compile Include="DialysisMedicineIssueDAL.cs" />
+    <Compile Include="ExpenditureDAL.cs" />
+    <Compile Include="DoctorsPaymentDAL.cs" />
+    <Compile Include="DoctorsPaymentDetailsDAL.cs" />
+    <Compile Include="ExpenditureOrderDAL.cs" />
+    <Compile Include="InpatientAccountDAL.cs" />
+    <Compile Include="InsurancePaymentDAL.cs" />
+    <Compile Include="InvestigtionTubeDAL.cs" />
+    <Compile Include="LoanSlipDAL.cs" />
+    <Compile Include="MedicineIssueDAL.cs" />
+    <Compile Include="OPDAdmissionDAL.cs" />
+    <Compile Include="OPDBillDAL.cs" />
+    <Compile Include="OPDotheritemDAL.cs" />
+    <Compile Include="OPDPatientDAL.cs" />
+    <Compile Include="OPDpatientMedicineIndentDAL.cs" />
+    <Compile Include="OPDPatientRefDoctorDAL.cs" />
+    <Compile Include="OPDPayTableDAL.cs" />
+    <Compile Include="OPDPrescriptionDAL.cs" />
+    <Compile Include="OPDSalesDAL.cs" />
+    <Compile Include="OPDSalesProductDAL.cs" />
+    <Compile Include="OPDSalesRefundDAL.cs" />
+    <Compile Include="OPDSalesRefundProductDAL.cs" />
+    <Compile Include="OPD_patient_medicine_orderDAL.cs" />
+    <Compile Include="OtherIncomeDAL.cs" />
+    <Compile Include="OtherItemReceiveDAl.cs" />
+    <Compile Include="OtherItemReceiveDetailsDAL.cs" />
+    <Compile Include="OtherserviceDAL.cs" />
+    <Compile Include="OtherServiceListDAL.cs" />
+    <Compile Include="OTInformationDAL.cs" />
+    <Compile Include="PatientConsultantDAL.cs" />
+    <Compile Include="PatientInventoryDAL.cs" />
+    <Compile Include="PatientOTMedicineDAL.cs" />
+    <Compile Include="PreOperativeCheckListDAL.cs" />
+    <Compile Include="PrescriptionProductDAL.cs" />
+    <Compile Include="PatientMedicineIndentOrderDAL.cs" />
+    <Compile Include="InvestagitionBackDAL.cs" />
+    <Compile Include="ProjectDAL.cs" />
+    <Compile Include="ProjectGuestDoctorDAL.cs" />
+    <Compile Include="ProjectOTDoctorListDAL.cs" />
+    <Compile Include="ProjectPatientDAL.cs" />
+    <Compile Include="ProjectPatientOTDAL.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ReagentPurchaseDAL.cs" />
+    <Compile Include="ReagentPurchaseProductDAL.cs" />
+    <Compile Include="SampleDAL.cs" />
+    <Compile Include="InvestigationOrderDAL.cs" />
+    <Compile Include="PatientDischargeDAL.cs" />
+    <Compile Include="ReAgentItemDAL.cs" />
+    <Compile Include="ReagentProductDAL.cs" />
+    <Compile Include="sales_refundDAL.cs" />
+    <Compile Include="TestResultDAL.cs" />
+    <Compile Include="TestElementDAL.cs" />
+    <Compile Include="DoctorsBillDAL.cs" />
+    <Compile Include="PayDAL.cs" />
+    <Compile Include="PermittedFormDAL.cs" />
+    <Compile Include="OtsheduleDAL.cs" />
+    <Compile Include="TestTubeDAL.cs" />
+    <Compile Include="UserParmittedFormDAL.cs" />
+    <Compile Include="UserLogDAL.cs" />
+    <Compile Include="FormDAL.cs" />
+    <Compile Include="ModuleFormDAL.cs" />
+    <Compile Include="ModuleDAL.cs" />
+    <Compile Include="UserGroupDAL.cs" />
+    <Compile Include="UserDAL.cs" />
+    <Compile Include="VehicleLogDAL.cs" />
+    <Compile Include="VisitMedicineDAL.cs" />
+    <Compile Include="OutdoorPatientInvestigationDAL.cs" />
+    <Compile Include="UnitDAL.cs" />
+    <Compile Include="OutdoorPatientMedicationDAL.cs" />
+    <Compile Include="GuardianRelationDAL.cs" />
+    <Compile Include="GenderDAL.cs" />
+    <Compile Include="DepartmentDAL.cs" />
+    <Compile Include="IndentDAL.cs" />
+    <Compile Include="OtherItemDAL.cs" />
+    <Compile Include="PurchaseDAL.cs" />
+    <Compile Include="OutdoorPatientAdviceDAL.cs" />
+    <Compile Include="CityDAL.cs" />
+    <Compile Include="NationalityDAL.cs" />
+    <Compile Include="PatientStatusDAL.cs" />
+    <Compile Include="outdoor_patient_visitDAL.cs" />
+    <Compile Include="ReligionDAL.cs" />
+    <Compile Include="PatientOtherItemDAL.cs" />
+    <Compile Include="PurchaseProductDAL.cs" />
+    <Compile Include="InvestigationDAL.cs" />
+    <Compile Include="OccupationDAL.cs" />
+    <Compile Include="HistoryTextValueDAL.cs" />
+    <Compile Include="AnaesthesiaDAL.cs" />
+    <Compile Include="PatientDAL.cs" />
+    <Compile Include="PatientHistoryDAL.cs" />
+    <Compile Include="TestDepartmentDAL.cs" />
+    <Compile Include="ReceiveDAL.cs" />
+    <Compile Include="MedicineDAL.cs" />
+    <Compile Include="TestGroupDAL.cs" />
+    <Compile Include="DosePerQuantityDAL.cs" />
+    <Compile Include="PatientConditionDAL.cs" />
+    <Compile Include="SupplierDAL.cs" />
+    <Compile Include="IntakeSysDAL.cs" />
+    <Compile Include="PaymentTypeDAL.cs" />
+    <Compile Include="InvestigationItemUsageDAL.cs" />
+    <Compile Include="IntakeOuttakeDAL.cs" />
+    <Compile Include="SalesDAL.cs" />
+    <Compile Include="ProductCategoryDAL.cs" />
+    <Compile Include="PatientCCDAL.cs" />
+    <Compile Include="RequisitionDAL.cs" />
+    <Compile Include="ProductTypeDAL.cs" />
+    <Compile Include="InvestigationItemIndentDAL.cs" />
+    <Compile Include="CabinStatusDAL.cs" />
+    <Compile Include="CabinTypeDAL.cs" />
+    <Compile Include="RequisitionProductDAL.cs" />
+    <Compile Include="InvestigationItemDAL.cs" />
+    <Compile Include="SalesProductDAL.cs" />
+    <Compile Include="AdviceDAL.cs" />
+    <Compile Include="ProductDAL.cs" />
+    <Compile Include="TreatementDAL.cs" />
+    <Compile Include="CabinTranferDAL.cs" />
+    <Compile Include="HistoryTextDAL.cs" />
+    <Compile Include="DoctorLevelDAL.cs" />
+    <Compile Include="CabinDAL.cs" />
+    <Compile Include="HistoryTextGroupDAL.cs" />
+    <Compile Include="SpecialistInDAL.cs" />
+    <Compile Include="InventoryDAL.cs" />
+    <Compile Include="DesignationDAL.cs" />
+    <Compile Include="InvestigationTestDAL.cs" />
+    <Compile Include="ReceiveProductDAL.cs" />
+    <Compile Include="RegularCheckupDAL.cs" />
+    <Compile Include="OutdoorBookingDAL.cs" />
+    <Compile Include="TestItemDAL.cs" />
+    <Compile Include="RefundFaultyDAL.cs" />
+    <Compile Include="BabyNoteDAL.cs" />
+    <Compile Include="FloorDAL.cs" />
+    <Compile Include="VisitInvestigationDAL.cs" />
+    <Compile Include="OperationDAL.cs" />
+    <Compile Include="Operation_noteDAL.cs" />
+    <Compile Include="MedicineTimingDAL.cs" />
+    <Compile Include="VisitTreatementDAL.cs" />
+    <Compile Include="RefferedDoctorsDAL.cs" />
+    <Compile Include="PatientMedicineDAL.cs" />
+    <Compile Include="PatientMedicineIndentDAL.cs" />
+    <Compile Include="ImplicationWayDAL.cs" />
+    <Compile Include="PatientRefferedDoctorsDAL.cs" />
+    <Compile Include="PatientTreatementDAL.cs" />
+    <Compile Include="VisitAdviceDAL.cs" />
+    <Compile Include="AdmissionDAL.cs" />
+    <Compile Include="PrescriptionDAL.cs" />
+    <Compile Include="DbProviderHelper.cs" />
+    <Compile Include="DbHelper.cs" />
+    <Compile Include="GenericXmlSerializer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
